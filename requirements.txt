@@ -1,0 +1,7 @@
+# coding:utf-8
+--trusted-host mirrors.aliyun.com --index-url http://mirrors.aliyun.com/pypi/simple/
+# --index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+tensorflow
+scikit-learn
+pandas
